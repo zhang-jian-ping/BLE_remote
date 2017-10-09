@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/button"
+    android:background="@drawable/button_remote_control"
+    android:textColor="@color/button_remote_control"
+    android:layout_width="@dimen/btn_width"
+    android:layout_height="@dimen/btn_height"
+    android:focusable="false" />

@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="MaterialDrawerTheme.Light.DarkToolbar.ActionBar">
+        <item name="android:displayOptions">useLogo|showHome|showCustom</item>
+        <item name="colorPrimary">@color/navigation_bar_background</item>
+        <item name="colorPrimaryDark">@color/status_bar_background</item>
+        <item name="colorAccent">@color/material_drawer_primary_dark</item>
+    </style>
+
+    <!-- Drawer theme. -->
+    <style name="DrawerTheme" parent="MaterialDrawerTheme.Light.DarkToolbar">
+        <item name="android:displayOptions">useLogo|showHome|showCustom</item>
+        <item name="colorPrimary">@color/navigation_bar_background</item>
+        <item name="colorPrimaryDark">@color/status_bar_background</item>
+        <item name="colorAccent">@color/material_drawer_primary_dark</item>
+    </style>
+
+</resources>
